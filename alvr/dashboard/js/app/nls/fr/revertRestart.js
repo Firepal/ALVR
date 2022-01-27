@@ -1,12 +1,12 @@
 define({
     // Revert Popup
-    confirmRevertTitle: "Restaurer paramètre ?",
+    confirmRevertTitle: "Réinitialiser paramètre ?",
     okRevertButton: "OK",
     cancelRevertButton: "Annuler",
-    revertText: "Restaurer la valeur par défaut de",
+    revertText: "Réinitialiser le paramètre à la valeur par défaut de",
     // Restart Popup
     confirmRestartTitle: "Relancer SteamVR ?",
-    restartText: "Relancer SteamVR ? Cela va fermer toute application vr en cours",
+    restartText: "Redémarrer SteamVR ? Cela va fermer toute application VR en cours d'exécution",
     dontAskRestart: "Ne plus demander",
     okRestartButton: "OK",
     cancelRestartButton: "Annuler",
